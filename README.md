@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Hi 👋! My name is Tristan and I'm from Austria</h2>
+<h2 align="center">Hi 👋! My name is Tristan</h2>
 
 ###
 
