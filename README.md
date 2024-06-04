@@ -33,7 +33,15 @@
 
 ---
 
-dahin
+###
+
+</div>
+<h3 align="center">Statistics</h3>
+<div align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tristan-BS&theme=2077" height="180em" />
+</div>
+
+###
 
 ---
 
