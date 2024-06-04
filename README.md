@@ -1,6 +1,5 @@
 <h2 align="center">Hi 👋! My name is Tristan</h2>
 
-###
 ---
 
 <div align="center">
