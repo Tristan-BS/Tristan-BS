@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! My name is Tristan</h2>
 
----
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -21,6 +21,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
 </div>
+
+###
+
+---
 
 ###
 
