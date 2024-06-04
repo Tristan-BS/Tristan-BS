@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 
 ###
 
-![snake animation](https://github.com/<seu Tristan-BS>/<seu Tristan-BS>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/<Tristan-BS>/<Tristan-BS>/blob/output/github-contribution-grid-snake2.svg)
 
 ###
