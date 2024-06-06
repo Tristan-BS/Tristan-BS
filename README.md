@@ -39,11 +39,9 @@
 <h3 align="center">🔍 - Statistics</h3>
 <div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tristan-BS&theme=2077" height="180em" />
-</div>
-
-###
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Tristan-BS&label=Profile%20views&color=0e75b6&style=flat" alt="Tristan-BS" /> </p>
+</div>
 
 ---
 
