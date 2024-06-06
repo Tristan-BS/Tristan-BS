@@ -40,7 +40,7 @@
 <div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tristan-BS&theme=2077" height="180em" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tristan-BS&theme=github-dark-violet&card_width=467)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tristan-BS&theme=github-dark-blue&card_width=467)](https://git.io/streak-stats)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Tristan-BS&label=Profile%20views&color=0e75b6&style=flat" alt="Tristan-BS" /> </p>
 </div>
