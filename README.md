@@ -1,5 +1,4 @@
 <h2 align="center">Hello! I'm Tristan 👋 </h2>
-<p align="center"> How are you? :3 </p>
 
 ###
 
