@@ -12,6 +12,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://github.com/Tristan-BS/Tristan-BS/assets/98057075/43354666-6ab4-45ab-a023-864668be169d" height="30" alt="Java" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -27,6 +29,8 @@
   <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="30" alt="Bootstrap" />
   <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="30" alt="Git" />
+
+
 </div>
 
 ###
