@@ -45,7 +45,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tristan-BS&theme=github-dark-blue&card_width=467)](https://git.io/streak-stats)
 
-[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-BS&langs_count=5&theme=tokyonight)]()
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Tristan-BS&label=Profile%20views&color=0e75b6&style=flat" alt="Tristan-BS" /> </p>
 </div>
