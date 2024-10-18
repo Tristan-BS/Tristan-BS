@@ -6,34 +6,27 @@
 <div align="center">
 
   <h3 align="center">🚀 - Languages & Tools</h3>
-  
+
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
   <img src="https://github.com/Tristan-BS/Tristan-BS/assets/98057075/43354666-6ab4-45ab-a023-864668be169d" height="30" alt="Java" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="30" alt="Bootstrap" />
-  <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="30" alt="Git" />
-  <img width="12" />
   <img src="https://github.com/user-attachments/assets/28d3065b-a594-49c1-8b55-bbcc1e5c447a" height="30" alt="JavaFX" />
-  <img width="12" />
-  <imt src="https://github.com/user-attachments/assets/a0ede456-eaf5-4f96-95e5-c47f9780cd18" height="30" alt="JavssaFX" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma" /> 
+  <img src="https://skillicons.dev/icons?i=maven" height="30" alt="Maven" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="SQLITE" /> 
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="NodeJS" /> 
+  <img src="https://skillicons.dev/icons?i=" height="30" alt="" />
   
 
 
