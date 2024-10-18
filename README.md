@@ -32,7 +32,10 @@
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="30" alt="Git" />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/28d3065b-a594-49c1-8b55-bbcc1e5c447a" height="30" alt="JavaFX" />
+  <img width="12" />
+  <imt src="https://github.com/user-attachments/assets/a0ede456-eaf5-4f96-95e5-c47f9780cd18" height="30" alt="JavssaFX" />
   
+
 
 
 
