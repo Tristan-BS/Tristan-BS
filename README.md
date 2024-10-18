@@ -30,6 +30,10 @@
   <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="30" alt="Bootstrap" />
   <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="30" alt="Git" />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/28d3065b-a594-49c1-8b55-bbcc1e5c447a" height="30" alt="JavaFX" />
+  
+
 
 
 </div>
