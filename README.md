@@ -46,7 +46,7 @@
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-BS&langs_count=5&theme=tokyonight)]()
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Tristan-BS&label=Profile%20views&color=0e75b6&style=flat" alt="Tristan-BS" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Tristan-BS&label=Profile%20views&color=blueviolet&style=flat" alt="Tristan-BS" /> </p>
 </div>
 
 ---
