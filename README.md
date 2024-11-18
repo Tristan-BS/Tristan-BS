@@ -40,7 +40,7 @@
 </div>
 <h3 align="center">🔍 - Statistics</h3>
 <div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tristan-BS&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tristan-BS&theme=tokyonight" height="180em" />
 
 [![GitHub Streak](https://streak-stats-eight.vercel.app?user=Tristan-BS&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
