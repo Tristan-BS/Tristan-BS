@@ -42,7 +42,7 @@
 <div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tristan-BS&theme=tokyonight" height="180em" />
 
-[![GitHub Streak](https://streak-stats-eight.vercel.app?user=Tristan-BS&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-weld-two.vercel.app?user=Tristan-BS&theme=midnight-purple)](https://git.io/streak-stats)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-BS&langs_count=5&theme=tokyonight)]()
 
