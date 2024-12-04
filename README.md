@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=maven" height="30" alt="Maven" />
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="SQLITE" /> 
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="NodeJS" /> 
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="NodeJS" />
   <img src="https://skillicons.dev/icons?i=" height="30" alt="" />
   
 
