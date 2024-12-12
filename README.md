@@ -46,7 +46,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-weld-two.vercel.app?user=Tristan-BS&theme=midnight-purple)](https://git.io/streak-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-BS&langs_count=5&theme=midnight-purple)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-BS&theme=midnight-purple)]()
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Tristan-BS&label=Profile%20views&color=blueviolet&style=flat" alt="Tristan-BS" /> </p>
 </div>
