@@ -41,12 +41,12 @@
 </div>
 <h3 align="center">🔍 - Statistics</h3>
 <div align="center">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tristan-BS&theme=midnight_purple)
 
 [![GitHub Streak](https://github-readme-streak-stats-weld-two.vercel.app?user=Tristan-BS&theme=midnight-purple)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-BS&layout=donut&theme=midnight-purple&langs_count=5&size_weight=0.5)](https://github.com/Tristan-BS/github-readme-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tristan-BS&theme=midnight_purple)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tristan-BS&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
