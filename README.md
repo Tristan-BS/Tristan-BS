@@ -41,6 +41,8 @@
 </div>
 <h3 align="center">🔍 - Statistics</h3>
 <div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tristan-BS&theme=midnight_purple)
 
 [![GitHub Streak](https://github-readme-streak-stats-weld-two.vercel.app?user=Tristan-BS&theme=midnight-purple)](https://git.io/streak-stats)
 
