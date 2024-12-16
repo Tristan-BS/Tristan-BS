@@ -48,7 +48,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tristan-BS&layout=donut&theme=midnight-purple&langs_count=5&size_weight=0.5)](https://github.com/Tristan-BS/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tristan-BS&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Tristan-BS&label=Profile%20views&color=blueviolet&style=flat" alt="Tristan-BS" /> </p>
 </div>
