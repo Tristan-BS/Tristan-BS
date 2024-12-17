@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <h3 align="center">🚀 - Languages & Tools</h3>
+  <h3 align="center">🛠️ - Languages & Tools</h3>
 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -39,7 +39,7 @@
 ###
 
 </div>
-<h3 align="center">🔍 - Statistics</h3>
+<h3 align="center">📈 - Statistics</h3>
 <div align="center">
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tristan-BS&theme=midnight_purple)
