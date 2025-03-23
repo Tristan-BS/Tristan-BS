@@ -1,9 +1,11 @@
-<h2 align="center">Hello! I'm Tristan 👋 </h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=915EFF&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Tristan+%F0%9F%91%8B;Apprentice+Developer;" alt="Typing SVG" />
+</h1>
 
 ###
 
 <div align="center">
-
+  
   <h3 align="center">🛠️ - Languages & Tools</h3>
 
   <img width="12" />
@@ -29,10 +31,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="NodeJS" />
   <img src="https://skillicons.dev/icons?i=" height="30" alt="" />
   
-
-
-
-
 </div>
 
 ###
