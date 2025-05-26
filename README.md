@@ -29,6 +29,8 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="SQLITE" /> 
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="NodeJS" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="Laravel" />
+  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="Angular" />
   <img src="https://skillicons.dev/icons?i=" height="30" alt="" />
   
 </div>
