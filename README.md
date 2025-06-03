@@ -70,5 +70,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6B46C1&height=100&section=footer&text=00000110+00001000+00100000+00100101&fontSize=22&animation=fadeIn&fontAlignY=50&fontColor=FFFFFF&desc=Tristan&descAlignY=75&descSize=18&descColor=915EFF&font=JetBrains%20Mono" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6B46C1&height=100&section=footer&text=00000110+00001000+11111010110&fontSize=22&animation=fadeIn&fontAlignY=50&fontColor=FFFFFF&desc=Tristan&descAlignY=75&descSize=18&descColor=915EFF&font=JetBrains%20Mono" width="100%"/>
 </div>
