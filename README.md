@@ -1,7 +1,9 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=915EFF&center=true&vCenter=true&width=435&lines=Hey+there!+I'm+Tristan+%F0%9F%91%8B;Apprentice+Developer;" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=915EFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Tristan+%F0%9F%91%8B;Application+Developer+Apprentice&speed=50" alt="Typing SVG" />
+</div>
 
+###
+---
 ###
 
 <div align="center">
@@ -65,4 +67,8 @@
 </picture>
 
 ---
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6B46C1&height=100&section=footer&text=00000110+00001000+00100000+00100101&fontSize=22&animation=fadeIn&fontAlignY=50&fontColor=FFFFFF&desc=Tristan&descAlignY=75&descSize=18&descColor=915EFF&font=JetBrains%20Mono" width="100%"/>
 </div>
