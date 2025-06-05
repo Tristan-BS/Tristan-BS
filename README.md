@@ -18,6 +18,7 @@
   <img src="https://github.com/Tristan-BS/Tristan-BS/assets/98057075/43354666-6ab4-45ab-a023-864668be169d" height="30" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="TS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
