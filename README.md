@@ -11,7 +11,7 @@
   <h3 align="center">🛠️ - Languages & Tools</h3>
 
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="30" alt="csharp logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
